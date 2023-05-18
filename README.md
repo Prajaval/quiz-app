@@ -1,6 +1,6 @@
 # Quiz-App
 
-## Application Link-> https://febiecode.github.io/Quiz-App/
+## Application Link->https://prajaval.github.io/quiz-app/
 
 # JavaScript Quiz Game Layouts
 
